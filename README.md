@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jokernights
 - 👀 I’m interested in ... being successful at programming languages
-- 🌱 I’m currently learning ... learning lua and python
+- 🌱 I’m currently learning ... lua and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
